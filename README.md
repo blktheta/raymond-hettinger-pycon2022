@@ -1,4 +1,4 @@
-[![Project name][repo_banner_img]][repo_url]
+[![Writing Great Unit Tests and Documentation][repo_banner_img]][repo_url]
 
 > Crop: "The Blue Cup", Joseph DeCamp, *1909* Year, oil on canvas. [Image source.][repo_banner_url]
 
@@ -37,7 +37,7 @@ If you want to say **thank you** or/and support a lone developers journey:
 <!-- Repository -->
 [repo_url]: https://github.com/blktheta/raymond-hettinger-pycon2022
 [repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/f/fd/DeCamp_Joseph_The_Blue_Cup.jpg
-[repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/media/TheBlueCup-JosephDeCamp.png
+[repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/media/TheBlueCup-JosephDecamp.png
 [repo_license_url]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/LICENSE.md
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
 
