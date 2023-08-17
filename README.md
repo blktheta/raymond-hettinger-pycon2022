@@ -10,7 +10,7 @@
 [![Repo wiki][repo_wiki_img]][repo_wiki_url]
 [![Repo license][repo_license_img]][repo_license_url]
 
-Notes from Raymond Hettinger's 'Pro tips for writing great unit tests' talk presented at PyCon Italia 2022, supplemented by David Andersson's 'Writing Great Docstrings' and 'Writing Great Test Documentation' articles, with the latter also being a talk presented at PyCon 2023.
+Notes from Raymond Hettinger's *Pro tips for writing great unit tests* talk presented at PyCon Italia 2022, supplemented by David Andersson's *Writing Great Docstrings* and *Writing Great Test Documentation* articles, with the latter also being a talk presented at PyCon 2023.
 
 The full talk by Raymond Hettinger is availbable at [YouTube][rh_pycon2022_yt], the code examples in the repo are based on the presentation code. While David Andersson's presentation is available at at [PyVideo][da_pycon2023_pv].
 
