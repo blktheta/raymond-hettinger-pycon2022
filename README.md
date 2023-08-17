@@ -7,14 +7,18 @@
 [![Python version][py_version_img]][repo_url]
 [![Python style guide][py_style_guide_img]][repo_url]
 [![Python code coverage][py_code_coverage_img]][repo_url]
+[![Repo wiki][repo_wiki_img]][repo_wiki_url]
 [![Repo license][repo_license_img]][repo_license_url]
 
-Notes from Raymond Hettinger's 'Pro tips for writing great unit tests' talk presented at PyCon Italia 2022, supplemented by David Andersson's 'Writing Great Test Documentation' talk presented at PyCon 2023.
+Notes from Raymond Hettinger's 'Pro tips for writing great unit tests' talk presented at PyCon Italia 2022, supplemented by David Andersson's 'Writing Great Docstrings' and 'Writing Great Test Documentation' articles, with the latter also being a talk presented at PyCon 2023.
 
 The full talk by Raymond Hettinger is availbable at [YouTube][rh_pycon2022_yt], the code examples in the repo are based on the presentation code. While David Andersson's presentation is available at at [PyVideo][da_pycon2023_pv].
 
 ## ⚡️ Getting started
 First, [download][py_download_url] and install **Python**. Version `3.10.12` or higher is required.
+
+## 📖 Project wiki
+Explore all feaures of the **Writing Great Unit Test and Documentation** by reading the project [Wiki][repo_wiki_url].
 
 ## 🔧 Usage
 
@@ -38,6 +42,8 @@ If you want to say **thank you** or/and support a lone developers journey:
 [repo_url]: https://github.com/blktheta/raymond-hettinger-pycon2022
 [repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/f/fd/DeCamp_Joseph_The_Blue_Cup.jpg
 [repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/media/TheBlueCup-JosephDecamp.png
+[repo_wiki_url]: https://github.com/blktheta/raymond-hettinger-pycon2022/wiki
+[repo_wiki_img]: https://img.shields.io/badge/docs-wiki_page-blue?style=for-the-badge&logo=none
 [repo_license_url]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/LICENSE.md
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
 
