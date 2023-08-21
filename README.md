@@ -35,7 +35,7 @@ If you want to say **thank you** or/and support a lone developers journey:
 <!--Python-->
 [py_version_img]: https://img.shields.io/badge/Python-3.10.12-yellow?style=for-the-badge&logo=none
 [py_style_guide_img]: https://img.shields.io/badge/Style_guide-PEP8-blue?style=for-the-badge&logo=none
-[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-NA-success?style=for-the-badge&logo=none
+[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-95%-success?style=for-the-badge&logo=none
 [py_download_url]: https://www.python.org/downloads/
 
 <!-- Repository -->
@@ -43,7 +43,7 @@ If you want to say **thank you** or/and support a lone developers journey:
 [repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/f/fd/DeCamp_Joseph_The_Blue_Cup.jpg
 [repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/media/TheBlueCup-JosephDecamp.png
 [repo_wiki_url]: https://github.com/blktheta/raymond-hettinger-pycon2022/wiki
-[repo_wiki_img]: https://img.shields.io/badge/docs-wiki_page-blue?style=for-the-badge&logo=none
+[repo_wiki_img]: https://img.shields.io/badge/docs-wiki_page-lightgrey?style=for-the-badge&logo=none
 [repo_license_url]: https://github.com/blktheta/raymond-hettinger-pycon2022/blob/main/LICENSE.md
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
 
