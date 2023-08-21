@@ -35,7 +35,7 @@ If you want to say **thank you** or/and support a lone developers journey:
 <!--Python-->
 [py_version_img]: https://img.shields.io/badge/Python-3.10.12-yellow?style=for-the-badge&logo=none
 [py_style_guide_img]: https://img.shields.io/badge/Style_guide-PEP8-blue?style=for-the-badge&logo=none
-[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-95%-success?style=for-the-badge&logo=none
+[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-95%25-success?style=for-the-badge&logo=none
 [py_download_url]: https://www.python.org/downloads/
 
 <!-- Repository -->
