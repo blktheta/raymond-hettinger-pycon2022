@@ -17,10 +17,34 @@ The full talk by Raymond Hettinger is availbable at [YouTube][rh_pycon2022_yt], 
 ## ⚡️ Getting started
 First, [download][py_download_url] and install **Python**. Version `3.10.12` or higher is required.
 
+Secondly, the repo makes use of testing packages such as; **Pytest**, **Coverage**, **Hypothesis** and **Pyflakes**. It is recommended to install the packages in a virtual environment. You can install the packeges seperately by calling:
+```bash
+pip install packagename
+```
+Or make use the command below to install the packages according to the configuration file `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
 ## 📖 Project wiki
 Explore all feaures of the **Writing Great Unit Test and Documentation** by reading the project [Wiki][repo_wiki_url].
 
+You will find best pracices and practical knowledge from the presentations, as well as code examples to better communicate the testing concepts.
+
 ## 🔧 Usage
+Clone the repo and navigate to the project directory. To run the test call:
+```bash
+pytest test/test_sample_data.py test/test_math_tools.py
+```
+To measure the code coverage run the command:
+```bash
+coverage run -m pytest test/test_sample_data.py test/test_math_tools.py
+```
+And to export the report to html run the command:
+```bash
+coverage html
+```
+
+The code is written with intention to teach about testing concepts and include several `docstrings` explaining the steps taken.
 
 ## ⭐️ Project assistance
 If you want to say **thank you** or/and support a lone developers journey:
